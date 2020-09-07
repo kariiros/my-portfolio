@@ -13,8 +13,8 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer grad student from DAIICT-Gandhinagar with ICT as my major.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
-                    <p>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p>
+                    <p>I graduated from Florida International University with a Bachelor's degree in Business Administration in 2018. Currently working in e-Commerce where I've had the opportunity to take part in various aspects of our team.</p>
+                    <p>Everyday holds something new, which keeps things interesting and exciting. I don't consider myself a "master" in any field in particular seeing as though technology is ever evolving. We are in a constant learning phase, but it's what makes it fun!</p>
                     </div>
                 </div>
                 </div>
@@ -37,8 +37,8 @@ export default class About extends Component {
                     <i className="icon-document-text" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <h3>Content Creation </h3>
+                    <p>Experienced in gathering product information and attributes in efforts to create content using HTML and maintaining it within a Product Information Management system.</p>
                 </div>
                 </div>
             </div>
@@ -48,8 +48,8 @@ export default class About extends Component {
                     <i className="icon-shopping-bag" />
                 </span>
                 <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <h3>e-Commerce</h3>
+                    <p>Organize content to the specification of each marketplace to ensure content meets requirements to be listed.</p>
                 </div>
                 </div>
             </div>
@@ -59,8 +59,8 @@ export default class About extends Component {
                     <i className="icon-file-add" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <h3>Optimization</h3>
+                    <p>Learning what resources we have available and using it as a tool to maximize our efficiency.</p>
                 </div>
                 </div>
             </div>

@@ -17,7 +17,7 @@ render() {
           
           <About></About>
           <Projects></Projects>
-          <Blog></Blog>
+          
           <Timeline></Timeline>
         </div>
       </div>
