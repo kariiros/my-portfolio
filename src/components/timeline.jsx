@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Operations and eCommerce Manager <span>2015-present</span></h2>
-                        <p>An operationas and ecommerce account manager with 5 years of experience meeting high quality standards of work. Contributed to the growth of a startup while achieving goals leading to profitability. Proven to be able to take on more responsibility and adjust accordingly to ensure all tasks are handled in a timely manner. Trusted as a dependable person in and out of the work environment.</p>
+                        <p>An operations and ecommerce account manager with 5 years of experience meeting high quality standards of work. Contributed to the growth of a startup while achieving goals leading to profitability. Proven to be able to take on more responsibility and adjust accordingly to ensure all tasks are handled in a timely manner. Trusted as a dependable person in and out of the work environment.</p>
                       </div>
                     </div>
                   </article>
